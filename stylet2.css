@@ -13,17 +13,17 @@ a.members{color:#fff; text-decoration: none;}
 a.members:hover{color:#fff; text-decoration: underline;}
 .btn-default {
     color: #FFF;
-    background-color: #f71482;
+    background-color: #000000;
     border-color: #f71482;
 }
 
 .btn-default:hover {
     color: #FFF;
-    background-color: #e0016e;
+    background-color: #000000;
     border-color: #e0016e;
 }
 
-section{ min-height: 300px; background:#f3f3f1 url(https://rawcdn.githack.com/morenovaborneos/noz/1e84892f8e1474deab69a1b392c77897ca792795/btm-header.jpg) top repeat-x;  padding:0 0px;}
+section{ min-height: 300px; background:#000000 url(https://rawcdn.githack.com/morenovaborneos/noz/1e84892f8e1474deab69a1b392c77897ca792795/btm-header.jpg) top repeat-x;  padding:0 0px;}
  
 
 .subtitle,
@@ -99,7 +99,7 @@ section{ min-height: 300px; background:#f3f3f1 url(https://rawcdn.githack.com/mo
     .pull-right{ float: none !important; text-align: center;}
     .pull-left{ float: none !important; text-align: center; }
     
-    header{ background:#242424; height: auto; padding-bottom: 10px;}
+    header{ background:#000000; height: auto; padding-bottom: 10px;}
     .subtitle, .pagination {
         margin: 0; 
         padding-top: 10px;
