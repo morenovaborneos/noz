@@ -4,7 +4,7 @@ body{ background:#f3f3f1; color:#5e5e5e;  font-size: 19px; font-family: arial;  
 a{color:#5e5e5e; text-decoration: none;}
 a:hover{color:#f91685; text-decoration: underline;}
 
-header{ height: 98px; width: 100%; background: url(https://cdn.x1cdn.com/ak/watchmygirlfriend/t2/images/bg-header.jpg) repeat-x; border-top:2px solid #ed0b79; padding:0 40px; }
+header{ height: 98px; width: 100%; background: url(https://rawcdn.githack.com/morenovaborneos/noz/1e84892f8e1474deab69a1b392c77897ca792795/bg-header.jpg) repeat-x; border-top:2px solid #ed0b79; padding:0 40px; }
 .brand{ margin-top:10px;}
 .btnlinks{ margin-top: 10px;}
 .btn-instant{ text-transform: uppercase; letter-spacing: 1px; font-size: 22px; font-family: arial; text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.8);  }
@@ -23,7 +23,7 @@ a.members:hover{color:#fff; text-decoration: underline;}
     border-color: #e0016e;
 }
 
-section{ min-height: 300px; background:#f3f3f1 url(https://cdn.x1cdn.com/ak/watchmygirlfriend/t2/images/btm-header.jpg) top repeat-x;  padding:0 0px;}
+section{ min-height: 300px; background:#f3f3f1 url(https://rawcdn.githack.com/morenovaborneos/noz/1e84892f8e1474deab69a1b392c77897ca792795/btm-header.jpg) top repeat-x;  padding:0 0px;}
  
 
 .subtitle,
@@ -69,7 +69,7 @@ section{ min-height: 300px; background:#f3f3f1 url(https://cdn.x1cdn.com/ak/watc
     width: 300px;
 }
 .gallery .holder .img-frame .play {
-    background: url("https://cdn.x1cdn.com/ak/watchmygirlfriend/t2/images/overlay.png") no-repeat scroll 0 0 transparent;
+    background: url("https://rawcdn.githack.com/morenovaborneos/noz/1e84892f8e1474deab69a1b392c77897ca792795/overlay.png") no-repeat scroll 0 0 transparent;
     display: none;
     width: 300px;
     height: 248px;
