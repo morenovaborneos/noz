@@ -4,7 +4,7 @@ body{ background:#000000; color:#000000;  font-size: 19px; font-family: arial;  
 a{color:#5e5e5e; text-decoration: none;}
 a:hover{color:#f91685; text-decoration: underline;}
 
-header{ height: 98px; width: 100%; background: url(https://rawcdn.githack.com/morenovaborneos/noz/1e84892f8e1474deab69a1b392c77897ca792795/bg-header.jpg) repeat-x; border-top:2px solid #ed0b79; padding:0 40px; }
+header{ height: 98px; width: 100%; background: url(https://rawcdn.githack.com/morenovaborneos/noz/1e84892f8e1474deab69a1b392c77897ca792795/bg-header.jpg) repeat-x; border-top:2px solid #5e5e5e; padding:0 40px; }
 .brand{ margin-top:10px;}
 .btnlinks{ margin-top: 10px;}
 .btn-instant{ text-transform: uppercase; letter-spacing: 1px; font-size: 22px; font-family: arial; text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.8);  }
@@ -14,13 +14,13 @@ a.members:hover{color:#fff; text-decoration: underline;}
 .btn-default {
     color: #FFF;
     background-color: #000000;
-    border-color: #f71482;
+    border-color: #5e5e5e;
 }
 
 .btn-default:hover {
     color: #FFF;
     background-color: #000000;
-    border-color: #e0016e;
+    border-color: #5e5e5e;
 }
 
 section{ min-height: 300px; background:#000000 url(https://rawcdn.githack.com/morenovaborneos/noz/1e84892f8e1474deab69a1b392c77897ca792795/btm-header.jpg) top repeat-x;  padding:0 0px;}
@@ -60,7 +60,7 @@ section{ min-height: 300px; background:#000000 url(https://rawcdn.githack.com/mo
     width:300px;
 	outline:none;
  
-     border: 1px solid #f91685;
+     border: 1px solid #5e5e5e;
 }
 .gallery .holder .img-frame a:first-child {
     display: block;
